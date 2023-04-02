@@ -85,7 +85,7 @@ p {
 
 
 section#contact{
-    text-align: center;
+    left: 450;
     background-color: gray;
     display: flex;
     max-height: 80%;
