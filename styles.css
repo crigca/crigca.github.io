@@ -85,7 +85,7 @@ p {
 
 
 section#contact{
-    left: 450;
+    
     background-color: gray;
     display: flex;
     max-height: 80%;
@@ -97,7 +97,6 @@ section#contact h2{
     text-transform: uppercase;
     position: relative;
     top: 50;
-    left: 450;
     text-align: center;
     border: 1px solid black;
     border-radius: 10px;
