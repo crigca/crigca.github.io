@@ -96,7 +96,7 @@ section#contact{
 section#contact h2{
     text-transform: uppercase;
     position: relative;
-    top: 50;
+    top: 50px;
     text-align: center;
     border: 1px solid black;
     border-radius: 10px;
